@@ -57,9 +57,9 @@
 **Скриншоты дефекта:**
 
 * Макет 
-![F](/misc/images/Figma1.png)
+![F](../misc/images/Figma1.png)
 * Сайт
-![S](/misc/images/Site1.png)
+![S](../misc/images/Site1.png)
 
 ### Баг-репорт 2:
 
