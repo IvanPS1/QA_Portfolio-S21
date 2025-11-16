@@ -88,9 +88,9 @@
 **Скриншоты дефекта:**
 
 * Макет 
-![F](/misc/images/Figma1.1.png)
+![F](../misc/images/Figma1.1.png)
 * Сайт
-![S](/misc/images/Site1.1.png)
+![S](../misc/images/Site1.1.png)
 
 ### Баг-репорт 3:
 
@@ -119,9 +119,9 @@
 **Скриншоты дефекта:**
 
 * Макет 
-![F](/misc/images/Figma2.png)
+![F](../misc/images/Figma2.png)
 * Сайт
-![S](/misc/images/Site2.png)
+![S](../misc/images/Site2.png)
 
 
 ### Баг-репорт 4:
@@ -151,9 +151,9 @@
 **Скриншоты дефекта:**
 
 * Макет 
-![F](/misc/images/Figma3.png)
+![F](../misc/images/Figma3.png)
 * Сайт
-![S](/misc/images/Site3.png)
+![S](../misc/images/Site3.png)
 
 
 ### Баг-репорт 5:
@@ -183,9 +183,9 @@
 **Скриншоты дефекта:**
 
 * Макет 
-![До](/misc/images/Figma5.png)
+![До](../misc/images/Figma5.png)
 * Сайт
-![После](/misc/images/Site5.png)
+![После](../misc/images/Site5.png)
 
 
 
@@ -216,9 +216,9 @@
 **Скриншоты дефекта:**
 
 * Макет 
-![До](/misc/images/Figma5.png)
+![До](../misc/images/Figma5.png)
 * Сайт
-![После](/misc/images/Site5.1.png)
+![После](../misc/images/Site5.1.png)
 
 
 ### Баг-репорт 7:
@@ -248,9 +248,9 @@
 **Скриншоты дефекта:**
 
 * Макет 
-![До](/misc/images/Figma6.png)
+![До](../misc/images/Figma6.png)
 * Сайт
-![После](/misc/images/Site6.png)
+![После](../misc/images/Site6.png)
 
 
 ### Баг-репорт 8:
@@ -280,9 +280,9 @@
 **Скриншоты дефекта:**
 
 * Макет 
-![До](/misc/images/Figma7.png)
+![До](../misc/images/Figma7.png)
 * Сайт
-![После](/misc/images/Site7.png)
+![После](../misc/images/Site7.png)
 
 
 ### Баг-репорт 9:
@@ -312,9 +312,9 @@
 **Скриншоты дефекта:**
 
 * Макет 
-![До](/misc/images/Figma7.png)
+![До](../misc/images/Figma7.png)
 * Сайт
-![После](/misc/images/Site7.1.png)
+![После](../misc/images/Site7.1.png)
 
 
 ### Баг-репорт 10:
@@ -344,9 +344,9 @@
 **Скриншоты дефекта:**
 
 * Макет 
-![До](/misc/images/Figma9.png)
+![До](../misc/images/Figma9.png)
 * Сайт
-![После](/misc/images/Site9.png)
+![После](../misc/images/Site9.png)
 
 
 ### Баг-репорт 11:
@@ -376,9 +376,9 @@
 **Скриншоты дефекта:**
 
 * Макет 
-![До](/misc/images/Figma10.png)
+![До](../misc/images/Figma10.png)
 * Сайт
-![После](/misc/images/Site10.png)
+![После](../misc/images/Site10.png)
 
 
 ### Баг-репорт 12:
@@ -408,9 +408,9 @@
 **Скриншоты дефекта:**
 
 * Макет 
-![До](/misc/images/Figma10.1.png)
+![До](../misc/images/Figma10.1.png)
 * Сайт
-![После](/misc/images/Site10.1.png)
+![После](../misc/images/Site10.1.png)
 
 
 
@@ -442,9 +442,9 @@
 **Скриншоты дефекта:**
 
 * Макет 
-![До](/misc/images/Figma11.png)
+![До](../misc/images/Figma11.png)
 * Сайт
-![После](/misc/images/Site11.png)
+![После](../misc/images/Site11.png)
 
 
 ### Баг-репорт 14:
@@ -474,9 +474,9 @@
 **Скриншоты дефекта:**
 
 * Макет 
-![До](/misc/images/Figma12.png)
+![До](../misc/images/Figma12.png)
 * Сайт
-![После](/misc/images/Site12.png)
+![После](../misc/images/Site12.png)
 
 
 ### Баг-репорт 15:
@@ -506,9 +506,9 @@
 **Скриншоты дефекта:**
 
 * Макет 
-![До](/misc/images/Figma13.png)
+![До](../misc/images/Figma13.png)
 * Сайт
-![После](/misc/images/Site13.png)
+![После](../misc/images/Site13.png)
 
 
 ### Баг-репорт 16:
@@ -538,6 +538,6 @@
 **Скриншоты дефекта:**
 
 * Макет 
-![До](/misc/images/Figma14.png)
+![До](../misc/images/Figma14.png)
 * Сайт
-![После](/misc/images/Site14.png)
+![После](../misc/images/Site14.png)
