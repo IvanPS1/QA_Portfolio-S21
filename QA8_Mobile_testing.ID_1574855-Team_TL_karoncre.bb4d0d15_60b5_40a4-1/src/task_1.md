@@ -103,7 +103,7 @@
 
 **3.**
 
-![states of mobile operation system](/misc/images/states.png)
+![states of mobile operation system](../misc/images/states.png)
 
 На приведенной выше диаграмме представлен жизненный цикл активити:
 

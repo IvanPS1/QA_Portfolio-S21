@@ -52,5 +52,5 @@ Breakpoint можно использовать, чтобы изменить URL 
 Throttling создает имитация медленного и нестабильного интернет-соединения. Это нужно чтобы проверить ка приложение ведет себя в условиях плохой сети
 
 **Как выглядит сертификат на телефоне после настройки окружения Charles на телефоне и ПК:**
-![charles mobile](/misc/images/charles-mobile.jpeg)
-![charles mobile](/misc/images/charles-mobile2.jpeg)
+![charles mobile](../misc/images/charles-mobile.jpeg)
+![charles mobile](../misc/images/charles-mobile2.jpeg)

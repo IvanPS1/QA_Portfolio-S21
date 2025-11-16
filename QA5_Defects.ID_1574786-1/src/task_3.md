@@ -42,9 +42,9 @@
 
 **Скриншоты дефекта:**
 * До перезагрузки: 
-![До](misc/images/task3.png)
+![До](../misc/images/task3.png)
 * После перезагрузки 
-![После](misc/images/1task3.png)
+![После](../misc/images/1task3.png)
 
 **Дополнение:**
 
