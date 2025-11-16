@@ -10,7 +10,7 @@
 
 **Скриншот вывода сохраненных сайтом cookies файлов:**
 
-![Cookies](/misc/images/cookies.png)
+![Cookies](../misc/images/cookies.png)
 
 На скриншоте видно, что сайт собрал 13 файлов cookies
 

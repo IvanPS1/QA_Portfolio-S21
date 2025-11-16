@@ -12,7 +12,7 @@
 **Сайт валидатор:** https://validator.w3.org/
 
 **Скриншот валидации:**
-![sber](/misc/images/w3-sber.png)
+![sber](../misc/images/w3-sber.png)
 
 **Ошибки:**
 

@@ -25,31 +25,31 @@ Google Chrome - 136.0.7103.114.\
 
 **1./2.**\
 Chrome
-![Chrome1](/misc/images/Chrome-1.png)
+![Chrome1](../misc/images/Chrome-1.png)
 
 Edge
-![Edge1](/misc/images/Edge-1.png)
+![Edge1](../misc/images/Edge-1.png)
 
 Firefox
-![Firefox1](/misc/images/Firefox-1.png)
+![Firefox1](../misc/images/Firefox-1.png)
 
 **3.**\
 Chrome
-![Chrome2](/misc/images/Chrome-2.png)
+![Chrome2](../misc/images/Chrome-2.png)
 
 Firefox
-![Firefox2](/misc/images/Firefox-2.png)
+![Firefox2](../misc/images/Firefox-2.png)
 
 Edge
-![Edge2](/misc/images/Edge-2.png)
+![Edge2](../misc/images/Edge-2.png)
 
 **4.**\
 Chrome
-![Chrome3](/misc/images/Chrome-3.png)
+![Chrome3](../misc/images/Chrome-3.png)
 
 Firefox
-![Firefox3](/misc/images/Firefox-3.png)
+![Firefox3](../misc/images/Firefox-3.png)
 
 Edge
-![Edge3](/misc/images/Edge-3.png)
+![Edge3](../misc/images/Edge-3.png)
 
