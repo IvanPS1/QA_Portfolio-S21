@@ -70,7 +70,7 @@
 
 Статус для шифрования и дешифрования: Acceptable (Приемлемо)
 
-![](..misc/images/nist-sym.png)
+![](../misc/images/nist-sym.png)
 
 #### 5.
 
@@ -92,5 +92,5 @@
 
 Статус: Allowed (Разрешён)
 
-![](..misc/images/nist-hash.png)
-![](..misc/images/nist-hash2.png)
+![](../misc/images/nist-hash.png)
+![](../misc/images/nist-hash2.png)
